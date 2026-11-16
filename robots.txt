@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fallenfirms.visionmediachannels.com/sitemap.xml
